@@ -9,7 +9,6 @@ As a consultant for LEGO, the goal is to increase profits from Amazon sales. Key
 - **Popularity**: Appeal to new consumers amid competition from apps and online entertainment.
 - **Fanatics (AFOLs)**: Number of adult fans who buy regularly, and typical set prices.
 - **Media/Advertising**: Ability and cost of positive coverage.
-- **Rare/Limited Sets**: Sales performance.
 - **Seasonality**: Distribution of sales throughout the year.
 
 Additional factors (e.g., reviews impact, licensed IP growth) were identified through analysis. The objective is to provide data-backed recommendations to boost profits by +$1.02B over 3 years (2026–2028).
